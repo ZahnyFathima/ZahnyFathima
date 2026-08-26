@@ -5,7 +5,7 @@
 I build things, break them, then build them better. Currently, I'm working on Bouncer, a really cool chrome extension that helps you stay locked in.
 
 ### 🌐 Socials:
-LinkedIn: www.linkedin.com/in/zahny-fathima-1931a9305
+LinkedIn: www.linkedin.com/in/zahny-fathima-1931a9305 <br>
 Email: zahnyfathimas@gmail.com
 
 ### 💻 Tech Stack:
