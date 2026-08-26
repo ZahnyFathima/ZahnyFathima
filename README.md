@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Zahny👋
 
-# 💫 About Me:
-I am:<br>🎓 A 2nd year AI and DS undergrad @ Middlesex University, Dubai<br>📊 An aspiring Data Scientist | Data Analyst | Full-Stack Developer | AI Enthusiast<br><br>
+# 💫 AI and DS undergrad @ Middlesex University, Dubai
 
+I build things, break them, then build them better. Currently, I'm working on Bouncer, an awesome chrome extension for determined students.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/zahny-fathima-1931a9305) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zahnyfathimas@gmail.com) 
