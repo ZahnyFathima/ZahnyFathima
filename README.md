@@ -12,7 +12,6 @@ I build things, break them, then build them better. Currently, I'm working on Bo
 
 
 
----
-[![](https://komarev.com/ghpvc/?username=ZahnyFathima&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
